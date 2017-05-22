@@ -1,0 +1,59 @@
+/* 
+ * this is a calculator to see how many calories a cat or dog burns by doing a form of exercise!
+ * this is a useful calculator for pet owners to make sure their pets are healthy.
+ */
+
+using System;
+namespace Animals
+{
+    public class Animal
+    {
+        public void setExercise(int e)
+        {
+            exercise = e;
+        }
+        public void setEnergy(int c)
+        {
+            calorie = c;
+        }
+        protected int exercise;
+        protected int calorie;
+    }
+
+    public class Dog : Animal
+    {
+        public int getEnergy()
+        {
+            return (exercise * calorie);
+        }
+    }
+
+    public class Cat : Animal
+    {
+        public int getEnergy()
+        {
+            return (exercise * calorie);
+        }
+    }
+
+
+    class DYeah
+    {
+        static void Main(string[] args)
+        {
+            Dog D = new Dog();
+            Cat C = new Cat();
+
+            D.setExercise(5);
+            D.setEnergy(2);
+
+            C.setExercise(2);
+            C.setEnergy(3);
+
+            // Print the area of the object.
+            Console.WriteLine("bark!!! haha i burn about {0} calories by wagging my tail!!", D.getEnergy());
+            Console.WriteLine("purrrrr i burn about {0} calories by licking my paws.", C.getEnergy());
+            Console.ReadKey();
+        }
+    }
+}

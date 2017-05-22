@@ -1,0 +1,3 @@
+There is a special sentinel loop that can be used with cin. There is a special character that terminates all text files: CTRL-Z. Whenever C++ encounters this character when reading a file, it terminates all input from that file. The cin stream is considered a text file. So it is possible to use the CTRL-Z character to indicate to a program that no more input is available.
+
+What makes this type of loop so appealing is that the initialization, test, and update are all in the same place. The statement cin >> first returns a value of  true if a valid input is entered. It will return false if an invalid input, like CTRL-Z, is entered.

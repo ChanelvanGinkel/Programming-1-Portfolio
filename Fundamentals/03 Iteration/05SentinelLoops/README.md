@@ -1,0 +1,6 @@
+Often, it will be necessary to write loops that repeat until a certain value is entered. These are know as sentinel loops. Think of a sentinel as a red flag. The loop will continue until you wave a red flag at it. The sentinel can be a single value or it can be an entire range of values. Sentinel loops are more useful than count loops, since they allow for an undetermined amount of repetitions. There are two common places for using a sentinel loop
+
+- Reading an unknown amount of input from the user. This is the most flexible way to read data from the user. The program will be able to accept any amount of input from the user.
+- Validating input. If it is necessary to verify that a user's input falls within a certain range, then a sentinel loop is required. It is now known ahead of time how many times the user will enter an invalid number. It is not enough to validate the first input from the user. What if the user types another invalid input?
+
+Sentinel loops still have three steps for the loop control variable: initialize, test and update. However, with sentinel loops, the initialize and update staements look the same. This can be a little confusing the first time it is seen, but if you remember that one statement is being used to initialize the loop control variable and that the other is being used to update it, then it may make a little more sense.
