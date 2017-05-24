@@ -6,6 +6,8 @@ You can use the [editor on GitHub](https://github.com/ChanelvanGinkel/Programmin
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Calculator (Processing)
+Coded Calculator in Processing
+
 ### Ant Game (Processing)
 ### Etch-a-Sketch (Processing)
 ### Shape Tester (C++)
