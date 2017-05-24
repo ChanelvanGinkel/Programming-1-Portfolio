@@ -5,7 +5,11 @@ You can use the [editor on GitHub](https://github.com/ChanelvanGinkel/Programmin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Calculator (Processing)
+### Ant Game (Processing)
+### Etch-a-Sketch (Processing)
+### Shape Tester (C++)
+### C++ Project - Light Up Checkers Board
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
