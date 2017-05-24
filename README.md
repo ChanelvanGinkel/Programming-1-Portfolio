@@ -6,12 +6,12 @@ Projects made in year one programming at Skyline High School.
 ### Calculator
 Coded in Processing
 Inline-style: 
-![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Screen Shot 2017-05-24 at 11.33.48 AM.png "Calculator")
+![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Calculator.png "Calculator")
 
 ### Ant Game
 Coded in Processing
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/AntGame.png "Logo Title Text 1")
 
 ### Etch-a-Sketch
 Coded in Processing
@@ -21,7 +21,7 @@ Coded in Processing
 ### Shape Tester
 Coded in Komodo Edit 9 - C++
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/ShapeTester.png "Logo Title Text 1")
 
 ### C++ Project - Light Up Checkers Board
 Coden in Arduino
