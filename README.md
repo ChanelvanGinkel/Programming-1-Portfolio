@@ -5,26 +5,24 @@ Projects made in year one programming at Skyline High School.
 
 ### Calculator
 Coded in Processing
-Inline-style: 
-![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Calculator.png "Calculator")
+ 
+![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Calculator3.png "Calculator")
 
 ### Ant Game
 Coded in Processing
-Inline-style: 
+
 ![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/AntGame.png "Logo Title Text 1")
 
 ### Etch-a-Sketch
 Coded in Processing
  
-![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Etch-a-sketech-002449.png "Logo Title Text 1")
 ![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Etch-a-sketech-002507.png "Logo Title Text 1")
 ### Shape Tester
 Coded in Komodo Edit 9 - C++
-Inline-style: 
-![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/ShapeTester.png "Logo Title Text 1")
 
 ### C++ Project - Light Up Checkers Board
 Coden in Arduino
+![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Etch-a-sketech-002507.png "Logo Title Text 1")
 
 ```markdown
 Syntax highlighted code block
