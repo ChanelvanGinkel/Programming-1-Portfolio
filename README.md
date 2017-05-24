@@ -6,7 +6,7 @@ Projects made in year one programming at Skyline High School.
 ### Calculator
 Coded in Processing
 Inline-style: 
-![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/ "Screen Shot 2017-05-24 at 11.33.48 AM.png")
+![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos "Screen Shot 2017-05-24 at 11.33.48 AM.png")
 
 ### Ant Game
 Coded in Processing
