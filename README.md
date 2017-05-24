@@ -5,19 +5,23 @@ Projects made in year one programming at Skyline High School.
 
 ### Calculator
 Coded in Processing
-
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### Ant Game
 Coded in Processing
-
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### Etch-a-Sketch
 Coded in Processing
-
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### Shape Tester
 Coded in Komodo Edit 9 - C++
-
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### C++ Project - Light Up Checkers Board
 Coden in Arduino
