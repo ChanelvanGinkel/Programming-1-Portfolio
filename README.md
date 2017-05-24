@@ -5,13 +5,20 @@ You can use the [editor on GitHub](https://github.com/ChanelvanGinkel/Programmin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Calculator (Processing)
-Coded Calculator in Processing
+### Calculator
+Coded in Processing
 
-### Ant Game (Processing)
-### Etch-a-Sketch (Processing)
-### Shape Tester (C++)
+### Ant Game
+Coded in Processing
+
+### Etch-a-Sketch
+Coded in Processing
+
+### Shape Tester
+Coded in Komodo Edit 9 - C++
+
 ### C++ Project - Light Up Checkers Board
+Coden in Arduino
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
