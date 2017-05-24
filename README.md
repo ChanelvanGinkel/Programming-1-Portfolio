@@ -15,9 +15,9 @@ Inline-style:
 
 ### Etch-a-Sketch
 Coded in Processing
-Inline-style: 
+ 
 ![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Etch-a-sketech-002449.png "Logo Title Text 1")
-
+![alt text](https://chanelvanginkel.github.io/Programming-1-Portfolio/Photos/Etch-a-sketech-002507.png "Logo Title Text 1")
 ### Shape Tester
 Coded in Komodo Edit 9 - C++
 Inline-style: 
